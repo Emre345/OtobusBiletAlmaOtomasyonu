@@ -1,0 +1,135 @@
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\ \2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ \2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ \2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+F:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\lab1pc1\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+E:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ \Yeni klasör\2. DÖNEM NESNE\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Programlar\Emre\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Programlarım\Projelerim\2. Dönem Nesne\Otobüs Bilet Alma Otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
